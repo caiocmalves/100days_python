@@ -10,7 +10,7 @@ if direction == "left":
             print("You found the treasure! You win!")
         elif color == "red":
             print("It's a room full of fire. Game over.")
-        elif:
+        elif color == "blue":
             print("You enter a room of beasts. Game over.")
         else:
             print("You chose a door that doesn't exist. Game over.")
